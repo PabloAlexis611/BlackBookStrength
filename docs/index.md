@@ -8,26 +8,34 @@ input their daily goal for calories and weightins — and also track them.
 ## App Screenshots
 The BlackBook Strength Android app contains the following areas:
 
-1. Login Page
+- Login Page
+
 <img src="img/Login.jpg" width="200">
 
-2. Register Page
+- Register Page
+
 <img src="img/Register.jpg" width="200">
 
-3. Reset Password functionality (in case you need it)
+- Reset Password functionality (in case you need it)
+
 <img src="img/ResetPassword.jpg" width="200">
 
-4. Lift
+- Lift
+
 <img src="img/Lift.jpg" width="200">
 
-5. Lift List
+- Lift List
+
 <img src="img/LiftList.jpg" width="200">
 
-6. A Calorie Log
+- A Calorie Log
+
 <img src="img/CalorieLog.jpg" width="200">
 
-7. A Weight Log
+- A Weight Log
+
 <img src="img/WeightLog.jpg" width="200">
 
-8. Your Profile, settings and preferences reside here
+- Your Profile, settings and preferences reside here
+
 <img src="img/Profile.jpg" width="200">
